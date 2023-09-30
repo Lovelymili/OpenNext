@@ -1,0 +1,3 @@
+name: OpenNext
+version: '${project.version}'
+main: org.mili.untitled.OpenNext
